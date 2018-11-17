@@ -1,0 +1,2 @@
+* dot-abase
+A python script for generating a graphviz /dot/ representation of the foreign keys in a postgresql database

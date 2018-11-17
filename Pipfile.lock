@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e47efdc17d571a7847d79296b86302e0ffe845ad2340d62ce497b867773af43e"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "2.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "psycopg2": {
+            "hashes": [
+                "sha256:3fb18e0e52807fe3a300dc1b5421aa492d5e759550918f597d61863419482535"
+            ],
+            "index": "pypi",
+            "version": "==2.7.6.1"
+        }
+    },
+    "develop": {}
+}
